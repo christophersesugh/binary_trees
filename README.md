@@ -9,5 +9,5 @@ Binary trees data structure during ALX fullstack software engineering course.
 Below are the files for various binary tress operations.
 |File name|Description|
 |---|---|
-|`[0-binary_tree_node.c](/0-binary_tree_node.c/)`|function that creates a binary tree node|
-|`[1-binary_tree_insert_left.c](/1-binary_tree_insert_left.c/)`|function that inserts a node as the left-child of another node|
+|[`0-binary_tree_node.c`](/0-binary_tree_node.c/)|function that creates a binary tree node|
+|[`1-binary_tree_insert_left.c`](/1-binary_tree_insert_left.c/)|function that inserts a node as the left-child of another node|
