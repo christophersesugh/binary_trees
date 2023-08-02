@@ -4,7 +4,7 @@ Binary trees data structure during ALX fullstack software engineering course.
 - Scripts written in Bash 5.0.17(1)
 - C files are compiled using `gcc 9.4.0`
 - C89 coding standard
-- Tested in ubuntu 20.04.1 LTS
+- Tested on ubuntu 20.04.1 LTS
 ## Projects
 Below are the files for various binary tress operations.
 |File name|Description|
